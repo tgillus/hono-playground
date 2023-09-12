@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "tsx src/index.ts"
+  },
+  "dependencies": {
+    "@hono/node-server": "1.1.1",
+    "hono": "3.6.0"
+  },
+  "devDependencies": {
+    "tsx": "3.12.8",
+    "typescript": "5.2.2"
+  }
+}
