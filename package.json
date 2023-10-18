@@ -4,10 +4,10 @@
   },
   "dependencies": {
     "@hono/node-server": "1.2.0",
-    "hono": "3.7.6"
+    "hono": "3.8.0"
   },
   "devDependencies": {
-    "tsx": "3.13.0",
+    "tsx": "3.14.0",
     "typescript": "5.2.2"
   }
 }
