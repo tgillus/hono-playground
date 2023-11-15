@@ -3,11 +3,11 @@
     "start": "tsx src/index.ts"
   },
   "dependencies": {
-    "@hono/node-server": "1.2.0",
-    "hono": "3.9.2"
+    "@hono/node-server": "1.2.2",
+    "hono": "3.10.0"
   },
   "devDependencies": {
-    "tsx": "3.14.0",
+    "tsx": "4.1.2",
     "typescript": "5.2.2"
   }
 }
